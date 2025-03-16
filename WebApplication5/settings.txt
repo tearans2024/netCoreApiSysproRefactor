@@ -1,0 +1,2 @@
+DB_CONNECTION=Host=localhost;Port=5432;Database=exapro_mutif_02052021_2_dev;Username=postgres;Password=bangkar
+RequestSizeLimit=5242880

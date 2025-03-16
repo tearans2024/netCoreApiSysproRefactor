@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netCoreApiSysproRefactor", "WebApplication5\netCoreApiSysproRefactor.csproj", "{45AC64DB-C401-48CA-8414-E12E0ED0F0A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45AC64DB-C401-48CA-8414-E12E0ED0F0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AC64DB-C401-48CA-8414-E12E0ED0F0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AC64DB-C401-48CA-8414-E12E0ED0F0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AC64DB-C401-48CA-8414-E12E0ED0F0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526B4D0F-237A-4700-A67A-FE861AA692D6}
+	EndGlobalSection
+EndGlobal
